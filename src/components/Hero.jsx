@@ -46,7 +46,7 @@ const Hero = () => {
               Optimize productivity, reduce costs, and ensure sustainable resource management 
               with our comprehensive solution.
             </p>
-            <Button href="/demo" white>
+            <Button href="http://localhost:8501/" white>
               Go to dashboard
             </Button>
           </div>
