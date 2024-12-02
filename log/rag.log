@@ -218,3 +218,28 @@ Initialized HuggingFaceEmbedding with model sentence-transformers/paraphrase-mul
 2024-12-02 01:07:42,949 - INFO - Connected to index water-laws
 2024-12-02 01:07:42,949 - INFO - RAGPipeline initialized with index name: water-laws and dimension: 384
 2024-12-02 01:07:42,949 - INFO - AnzarAssistant initialized with model URL: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct
+2024-12-02 01:56:59,721 - INFO - 
+Initialized HuggingFaceEmbedding with model sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 01:56:59,722 - INFO - Discovering subpackages in _NamespacePath(['/home/techvio/.miniconda3/lib/python3.12/site-packages/pinecone_plugins'])
+2024-12-02 01:56:59,722 - INFO - Looking for plugins in pinecone_plugins.inference
+2024-12-02 01:56:59,728 - INFO - Installing plugin inference into Pinecone
+2024-12-02 01:56:59,728 - WARNING - Index may already exist: Pinecone.create_index() missing 1 required positional argument: 'spec'
+2024-12-02 01:57:00,068 - INFO - Connected to index water-laws
+2024-12-02 01:57:00,144 - INFO - 
+Initialized HuggingFaceEmbedding with model sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 01:57:00,144 - INFO - Discovering subpackages in _NamespacePath(['/home/techvio/.miniconda3/lib/python3.12/site-packages/pinecone_plugins'])
+2024-12-02 01:57:00,145 - INFO - Looking for plugins in pinecone_plugins.inference
+2024-12-02 01:57:00,145 - INFO - Installing plugin inference into Pinecone
+2024-12-02 01:57:00,145 - WARNING - Index may already exist: Pinecone.create_index() missing 1 required positional argument: 'spec'
+2024-12-02 01:57:00,146 - INFO - Connected to index water-laws
+2024-12-02 01:57:00,146 - INFO - RAGPipeline initialized with index name: water-laws and dimension: 384
+2024-12-02 01:57:00,146 - INFO - AnzarAssistant initialized with model URL: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct
+2024-12-02 01:57:33,741 - INFO - 
+Initialized HuggingFaceEmbedding with model sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 01:57:33,742 - INFO - Discovering subpackages in _NamespacePath(['/home/techvio/.miniconda3/lib/python3.12/site-packages/pinecone_plugins'])
+2024-12-02 01:57:33,742 - INFO - Looking for plugins in pinecone_plugins.inference
+2024-12-02 01:57:33,743 - INFO - Installing plugin inference into Pinecone
+2024-12-02 01:57:33,743 - WARNING - Index may already exist: Pinecone.create_index() missing 1 required positional argument: 'spec'
+2024-12-02 01:57:33,743 - INFO - Connected to index water-laws
+2024-12-02 01:57:33,743 - INFO - RAGPipeline initialized with index name: water-laws and dimension: 384
+2024-12-02 01:57:33,743 - INFO - AnzarAssistant initialized with model URL: https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct
